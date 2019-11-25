@@ -14,3 +14,5 @@
 Quizz sur l'univers des films d'horreur, réalisé à partir d'une API fournie dans le cadre d'un Hackathon de 24h - Projet étudiant Wild Code School Lyon - octobre 2019.
 
 ### <a href="https://inspiring-morse-bea0ae.netlify.com/">Tester le jeu dans votre navigateur (optimisé pour chrome)</a>
+
+Il s'agit d'une v1 et une mise à jour ultérieure permettra de corriger certains bugs mineurs ainsi que la partie design.
