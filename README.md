@@ -3,10 +3,10 @@
   <img src="https://github.com/IrvinTarlao/Hackathon_1_JSON-s_quizz/blob/master/src/img/Capture%20d%E2%80%99e%CC%81cran%202019-11-25%20a%CC%80%2013.46.48.png" alt="Demo" width="800" />
 </p>
 <p align="center">
-  <img src="https://github.com/IrvinTarlao/Hackathon_1_JSON-s_quizz/blob/master/src/img/Capture%20d%E2%80%99e%CC%81cran%202019-11-25%20a%CC%80%2013.49.14.png" width="300" />
+  <img src="https://github.com/IrvinTarlao/Hackathon_1_JSON-s_quizz/blob/master/src/img/Capture%20d%E2%80%99e%CC%81cran%202019-11-25%20a%CC%80%2013.49.14.png" width="250" />
 </p>
 <p align="center">
-  <img src="https://github.com/IrvinTarlao/Hackathon_1_JSON-s_quizz/blob/master/src/img/Capture%20d%E2%80%99e%CC%81cran%202019-11-25%20a%CC%80%2013.57.57.png" width="300" />
+  <img src="https://github.com/IrvinTarlao/Hackathon_1_JSON-s_quizz/blob/master/src/img/Capture%20d%E2%80%99e%CC%81cran%202019-11-25%20a%CC%80%2013.57.57.png" width="250" />
 </p>
 
 # Json's Quizz
