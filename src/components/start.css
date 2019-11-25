@@ -1,0 +1,29 @@
+.modal-wrapper {
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  font-weight: bold;
+  align-items: center;
+  background: black;
+  font-size: 7em;
+  text-shadow:0 0 2px #FF0000,0 0 10px #FF0000, 0 0 120px #FF0000;
+  color:#FF0000;
+}
+  
+#buttonstart {
+  font-weight: bold;
+  background: black;
+  text-shadow:0 0 2px #FF0000,0 0 10px #FF0000, 0 0 120px #FF0000;
+  color:#FF0000;
+  border: 1px solid red;
+}
+
+.textmodal {
+  font-family: "Friday";
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  height: 100%;
+}
